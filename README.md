@@ -4,9 +4,11 @@
 
 A descrição de um usuário fictício que se encaixa no público-alvo, seu nicho, cultura, estilo de vida, faixa etária, etc. 
 
-São abstrações de usuários reais que compartilham características e necessidades em comum.
+São abstrações de usuários reais que compartilham características e necessidades em comum. 
 
-Objetivo principal: **ajudar a visualizar o usuário real do sistema**!
+A persona é fictícia, mas a sua descrição deve ser plausível!
+
+Objetivo principal: **ajudar a visualizar o usuário real do sistema**, tentar prever como as pessoas reagirão ao produto.
 
 Quatro perspectivas:
 
@@ -20,6 +22,12 @@ Exemplo:
 Considerar um aplicativo para chamada _on-line_. Quem são as _personas_?
 
 ![Personas](personas.png)
+
+**Mais:**
+
+* [Personas Make Users Memorable for Product Team Members](https://www.nngroup.com/articles/persona/)
+* [Why Personas Fail](https://www.nngroup.com/articles/why-personas-fail/)
+* [The Persona Lifecycle: Keeping People in Mind Throughout Product Design](https://www.sciencedirect.com/book/9780125662512/the-persona-lifecycle)
 
 ## Use Cases
 
@@ -51,10 +59,18 @@ _Pedro abre o sistema acadêmico instalado em seu smartphone. Na tela inicial to
 
 A partir dos cenários é possível (e recomendado) prototipar uma interface.
 
+**Mais:**
 
+* [Task-Centered User Interface Design](https://hcibib.org/tcuid/)
 
 ## Exercício
 
 Considere um aplicativo para ...
 
 Construa uma persona _ad hoc_, descreva pelo menos um _use case_, uma _task_ e seu _scenario_.
+
+Trello board invite <https://trello.com/invite/b/KsmnLxtF/cc29cd13047284e57853dbc1e625bc91/persona>
+
+* * *
+
+Hall of fame, [Dieter Rams](http://www.revistacliche.com.br/2013/05/dieter-rams-e-os-10-principios-do-bom-design/) e sua [influencia no design no campo da tecnologia](http://www.dad.com.br/design-e-tecnologia-se-encontram/).
