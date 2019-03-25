@@ -29,9 +29,7 @@ Podem ser construídos sobre as personas, sobre os dados da pesquisa do usuário
 
 Exemplo:
 
-```plain
-Vanessa é professora no curso de Ciência da Computação e não entendia o porquê do caderno de chamada ser no papel. Ela soube que a TI da universidade estava disponibilizando o caderno de chamada on-line de forma experimental e decidiu se inscrever como usuária beta. Vanessa usou a chamada on-line em todo o semestre nas suas três turmas. Ela abria o navegador, acessava a página de sistemas da universidade e se logava. Suas turmas apareciam na sua tela inicial, onde ela acionava a opção realizar a chamada. O aplicativo mostrava cada estudante com a opção de assinalar presença ou falta. Vanessa, então, tem o controle exato do calendário e dias de aula, seus alunos sabem sua frequência pelo mesmo sistema e estão contentes com a transparência.
-```
+_Vanessa é professora no curso de Ciência da Computação e não entendia o porquê do caderno de chamada ser no papel. Ela soube que a TI da universidade estava disponibilizando o caderno de chamada on-line de forma experimental e decidiu se inscrever como usuária beta. Vanessa usou a chamada on-line em todo o semestre nas suas três turmas. Ela abria o navegador, acessava a página de sistemas da universidade e se logava. Suas turmas apareciam na sua tela inicial, onde ela acionava a opção realizar a chamada. O aplicativo mostrava cada estudante com a opção de assinalar presença ou falta. Vanessa, então, tem o controle exato do calendário e dias de aula, seus alunos sabem sua frequência pelo mesmo sistema e estão contentes com a transparência._
 
 A narrativa deve relatar um caso de uso no futuro, que seja motivacional e reflita principalmente **o porquê de estamos desenvolvimento isso**.
 
@@ -41,9 +39,7 @@ Uma _task_ (tarefa) é uma descrição clara de uma funcionalidade completa que 
 
 Exemplo:
 
-```plain
-O professor Pedro estava lendo um e-mail de um aluno no seu smartphone. O estudante notou que estava com menos de 70% de frequência e envio para o professor a data do único dia que faltou. Então, o professor Pedro teve te checar as chamadas para corrigir tais inconsistências.
-```
+_O professor Pedro estava lendo um e-mail de um aluno no seu smartphone. O estudante notou que estava com menos de 70% de frequência e envio para o professor a data do único dia que faltou. Então, o professor Pedro precisou checar as chamadas para corrigir tais inconsistências._
 
 Importante, **a descrição não diz exatamente _como_ ela será concluída**.
 
@@ -51,9 +47,7 @@ O detalhamento é feito com um _scenario_ (cenário), que descreve uma utilizaç
 
 Exemplo:
 
-```plain
-Pedro abre o sistema acadêmico instalado em seu smartphone. Na tela inicial toca na turma do estudante e depois em visualizar chamada. Ele rola a tela e ajusta o zoom, observando o quadro geral Pedro percebe que realmente existem faltas a mais. Para ajustar, pedro toca na linha do estudante em questão. Compara então a data recebida no e-mail do estudante com as exibidas no sistema marcadas como falta. Resolve alterar todas as datas para presença, exceto a data que o estudante realmente faltou e salva essas informações.
-```
+_Pedro abre o sistema acadêmico instalado em seu smartphone. Na tela inicial toca na turma do estudante e depois em visualizar chamada. Ele rola a tela e ajusta o zoom, observando o quadro geral Pedro percebe que realmente existem faltas a mais. Para ajustar, pedro toca na linha do estudante em questão. Compara então a data recebida no e-mail do estudante com as exibidas no sistema marcadas como falta. Resolve alterar todas as datas para presença, exceto a data que o estudante realmente faltou e salva essas informações._
 
 A partir dos cenários é possível (e recomendado) prototipar uma interface.
 
